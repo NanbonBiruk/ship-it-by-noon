@@ -3,7 +3,7 @@
 Keep a short log. One entry per prompt is enough.
 
 | What I asked (paste or summarize) | What happened | What I had to fix or check |
-| --- | --- | --- |
-| | | |
-| | | |
-| | | |
+| Asked Copilot to reads AGENTS.md and README.md, check Node.js, install any dependencies, configure .env, create my database and test the connection. | Copilot helped me set up my laptop and the project environment  | Had to check the Node.js version, npm install, and SQL server connection   |
+| Told Copilot my user story of "As a recreational basketball player, I need to find pickup basketball games based on location, date, and skill level, so that I can find games to join and connect with other players.  | It helped estbalish the main purpose and needs for the app |Had to make the user story clearly explain who the user is, what they need and why. |
+| Asked AI to read AGENTS.md and IDEA.md and build the HoopsFinder website with a search input and a results table containing fictional pickup basketball games.  | It was able to make the website with sample courts | Checked the website on localhost:3000, tested different features like the dropdown and search |
+| Read AGENTS.md, IDEA.md, server/server.js, and web/index.html. Design tables for my user story with primary and foreign keys and write db/schema.sql. Write db/load.js to create the tables in my database and fill them with about 20 realistic made-up rows per table. Write db/queries.sql with the query that answers my story, using a parameter for what the user picks or types. Add an /api route to server/server.js that runs that query, and change web/index.html to show the real rows instead of the made-up ones. Then tell me exactly how to run it. | Copilot created the database structure, sample data, and SQL queries so that it could properly display the pickup basketball games. | Had to make sure that the search filters worked well with the SQL and didn't lead to any errors.|
