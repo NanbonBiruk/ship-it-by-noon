@@ -12,6 +12,8 @@ Copilot helped me set up my laptop and the project environment
  Had to check the Node.js version, npm install, and SQL server connection
 
 
+
+
 Told Copilot my user story of "As a recreational basketball player, I need to find pickup basketball games based on location, date, and skill level, so that I can find games to join and connect with other players.	
 
 It helped estbalish the main purpose and needs for the app
@@ -20,11 +22,15 @@ Had to make the user story clearly explain who the user is, what they need and w
 
 
 
+
+
 Asked AI to read AGENTS.md and IDEA.md and build the HoopsFinder website with a search input and a results table containing fictional pickup basketball games.	
 
 It was able to make the website with sample courts	
 
 Checked the website on localhost:3000, tested different features like the dropdown and search
+
+
 
 
 
